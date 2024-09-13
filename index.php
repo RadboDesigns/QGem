@@ -114,7 +114,7 @@
                         <!--Start Header Left-->
                         <div class="header-left">
                             <div class="main-logo-box">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img src="assets/images/resources/logo.png" alt="Awesome Logo" title="">
                                 </a>
                             </div>
@@ -133,17 +133,17 @@
                                 <nav class="main-menu style1 navbar-expand-md navbar-light">
                                     <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                         <ul class="navigation clearfix">
-                                            <li class="dropdown current"><a href="index.html"><span>Home</span></a>
+                                            <li class="dropdown current"><a href="index.php"><span>Home</span></a>
                                             </li>
-                                            <li class="dropdown"><a href="about.html"><span>About Us</span></a>
+                                            <li class="dropdown"><a href="about.php"><span>About Us</span></a>
                                         </li>
-                                        <li class="dropdown"><a href="services.html"><span>Services</span></a>
+                                        <li class="dropdown"><a href="services.php"><span>Services</span></a>
                                         </li>
-                                        <li class="dropdown"><a href="training.html"><span>Training</span></a>
+                                        <li class="dropdown"><a href="training.php"><span>Training</span></a>
                                         </li>
-                                        <li class="dropdown"><a href="clients.html"><span>Our Clients</span></a>
+                                        <li class="dropdown"><a href="clients.php"><span>Our Clients</span></a>
                                         </li>
-                                            <li><a href="contact.html"><span>Contact Us</span></a></li>
+                                            <li><a href="contact.php"><span>Contact Us</span></a></li>
                                         </ul>
                                     </div>
                                 </nav>
@@ -178,7 +178,7 @@
                     <div class="clearfix">
                         <!--Logo-->
                         <div class="logo float-left">
-                            <a href="index.html" class="img-responsive">
+                            <a href="index.php" class="img-responsive">
                                 <img src="assets/images/resources/sticky-logo.png" alt="" title="">
                             </a>
                         </div>
@@ -199,7 +199,7 @@
                 <div class="menu-backdrop"></div>
                 <div class="close-btn"><span class="icon fa fa-times-circle"></span></div>
                 <nav class="menu-box">
-                    <div class="nav-logo"><a href="index.html"><img src="assets/images/resources/mobilemenu-logo.png"
+                    <div class="nav-logo"><a href="index.php"><img src="assets/images/resources/mobilemenu-logo.png"
                                 alt="" title=""></a></div>
                     <div class="menu-outer">
                         <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
@@ -361,7 +361,7 @@
                 
             </div>
             <div class="btns-box" style="padding-left: 1000px;">
-                <a  class="btn-one" href="about.html">
+                <a  class="btn-one" href="about.php">
                     <span class="txt">
                         discover more<i class="icon-refresh arrow"></i>
                     </span>
@@ -420,7 +420,7 @@
                                         </div>
                                         <div class="title-holder">
                                             <h3>
-                                                <a href="services.html">Auditing </a>
+                                                <a href="services.php">Auditing </a>
                                             </h3>
                                         </div>
                                     </div>
@@ -435,7 +435,7 @@
                                         </div>
                                         <div class="title-holder">
                                             <h3>
-                                                <a href="services.html">Consulting  </a>
+                                                <a href="services.php">Consulting  </a>
                                             </h3>
                                         </div>
                                     </div>
@@ -450,7 +450,7 @@
                                         </div>
                                         <div class="title-holder">
                                             <h3>
-                                                <a href="services.html">Implementation </a>
+                                                <a href="services.php">Implementation </a>
                                             </h3>
                                         </div>
                                     </div>
@@ -465,7 +465,7 @@
                                         </div>
                                         <div class="title-holder">
                                             <h3>
-                                                <a href="training.html">Training</a>
+                                                <a href="training.php">Training</a>
                                             </h3>
                                         </div>
                                     </div>
@@ -505,7 +505,7 @@
                                     style="background-image: url(assets/images/shape/zig-zag.png);">best</span><br>
                                     Consulting & Management systems throughout<br> South India </h2>
                             <div class="slogan-btn-box paroller">
-                                <a class="btn-one" href="about.html">
+                                <a class="btn-one" href="about.php">
                                     <span class="txt">Discover More</span>
                                 </a>
                             </div>
@@ -717,7 +717,7 @@
                                 <h2>We’re Delivering the Best<br> Customer Experience</h2>
                             </div>
                             <div class="button-box">
-                                <a class="btn-one" href="services.html"><span class="txt">Discover More</span></a>
+                                <a class="btn-one" href="services.php"><span class="txt">Discover More</span></a>
                             </div>
                         </div>
                     </div>
@@ -740,7 +740,7 @@
                                 <div class="single-footer-widget single-footer-widget--company-info marbtm50">
                                     <div class="our-company-info">
                                         <div class="footer-logo-style1">
-                                            <a href="index.html">
+                                            <a href="index.php">
                                                 <img src="assets/images/footer/footer-logo.png" alt="Awesome Logo" title="">
                                             </a>
                                         </div><br>
@@ -768,15 +768,15 @@
                                     </div>
                                     <div class="footer-widget-links">
                                         <ul>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="contact.html">Support</a></li>
+                                            <li><a href="about.php">About</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
+                                            <li><a href="contact.php">Support</a></li>
                                             
                                         </ul>
                                         <ul class="right">
-                                            <li><a href="about.html">Terms of Use</a></li>
-                                            <li><a href="about.html">Privacy Policy</a></li>
-                                            <li><a href="contact.html">Help</a></li>
+                                            <li><a href="about.php">Terms of Use</a></li>
+                                            <li><a href="about.php">Privacy Policy</a></li>
+                                            <li><a href="contact.php">Help</a></li>
                                         </ul>
                                     </div>
                                     <br>
@@ -828,7 +828,7 @@
                         <div class="container" >
                             <div class="bottom-inner" >
                                 <div class="copyright" >
-                                    <p>Copyright &copy; 2024 <a href="index.html">QGem</a> All Rights Reserved.</p>
+                                    <p>Copyright &copy; 2024 <a href="index.php">QGem</a> All Rights Reserved.</p>
                                 </div>
     
                             </div>
@@ -853,7 +853,7 @@
             <div class="popup-inner">
                 <div class="overlay-layer"></div>
                 <div class="search-form">
-                    <form method="post" action="index.html">
+                    <form method="post" action="index.php">
                         <div class="form-group">
                             <fieldset>
                                 <input type="search" class="form-control" name="search-input" value=""
@@ -864,11 +864,11 @@
                     </form>
                     <h3>Recent Search Keywords</h3>
                     <ul class="recent-searches">
-                        <li><a href="index.html">waste</a></li>
-                        <li><a href="index.html">Dumpster</a></li>
-                        <li><a href="index.html">Zerowaste</a></li>
-                        <li><a href="index.html">Garbage</a></li>
-                        <li><a href="index.html">trash</a></li>
+                        <li><a href="index.php">waste</a></li>
+                        <li><a href="index.php">Dumpster</a></li>
+                        <li><a href="index.php">Zerowaste</a></li>
+                        <li><a href="index.php">Garbage</a></li>
+                        <li><a href="index.php">trash</a></li>
                     </ul>
                 </div>
             </div>
