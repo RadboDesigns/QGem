@@ -311,6 +311,10 @@
                                         <li>
                                             <span class="icon-check"></span> EnMS: ISO 50001:2018 (Energy Management System)
                                         </li>
+                                        <li>
+                                            <span class="icon-check"></span> AS: 9100D:2016 Aerospace  Quality Management System
+                                        </li>
+                                        
                                     </ul>
                                 </div>
                             </li>
@@ -346,6 +350,9 @@
                                         </li>
                                         <li>
                                             <span class="icon-check"></span> EnMS: ISO 50001:2018 (Energy Management System)
+                                        </li>
+                                        <li>
+                                            <span class="icon-check"></span> AS: 9100D:2016 Aerospace  Quality Management System
                                         </li>
                                     </ul>
                                 </div>

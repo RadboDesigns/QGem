@@ -300,7 +300,7 @@
                                     </li>
                                     <li>
                                         <span class="icon-check"></span>
-                                        The Operation of QGem Management Solution is under control of Mr.A.Devaraj, Principal Consultant as well as qualified Lead auditor ISO 9001, ISO 14001 , ISO 45001,ISO 22000 ,ISO 27001, and IATF 16949 Internal Auditor.  
+                                        The Operation of QGem Management Solution is under control of Mr.A.Devaraj, Principal Consultant as well as qualified Lead auditor ISO 9001, ISO 14001 , ISO 45001,ISO 22000 ,ISO 27001, AS9100, and IATF 16949 Internal Auditor.  
                                     </li>
                                     <li>
                                         <span class="icon-check"></span>

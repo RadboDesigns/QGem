@@ -19,7 +19,7 @@
         }
 
         // Set the recipient email address.
-        $recipient = "teamradbo@gmail.com";  // Changed to your desired email
+        $recipient = "qgem2010@gmail.com";  // Changed to your desired email
 
         // Set the email subject.
         $email_subject = "New contact from $name";

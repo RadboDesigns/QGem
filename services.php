@@ -262,7 +262,7 @@
                                 <span class="icon-recruit"></span>
                             </div>
                             <div class="inner-title">
-                                <h3>Organizations seeking a suitable, adequate, and effective management systems (Management system ISO 9001, ISO 14001, ISO 22000,ISO 27001, ISO 45001, ISO 50001,ISO 13485 , IATF 16949, etc) conduct internal audits, the auditors will be looking for objective evidence of compliance with the management standards, and Non compliances are brought to the attention to top management .</h3>
+                                <h3>Organizations seeking a suitable, adequate, and effective management systems (Management system ISO 9001, ISO 14001, ISO 22000,ISO 27001, ISO 45001, ISO 50001,ISO 13485 , AS9100, IATF 16949, etc) conduct internal audits, the auditors will be looking for objective evidence of compliance with the management standards, and Non compliances are brought to the attention to top management .</h3>
                             </div>
                         </div>
 
@@ -352,7 +352,7 @@
                                 <span class="icon-recruit"></span>
                             </div>
                             <div class="inner-title">
-                                <h3>To achieve excellence and competitive advantage you must effectively align your processes and resources with Customer Satisfaction-driven Strategic Performance Objectives, and manage to those objectives. Nucleus Consultants works with you to help you discover and drive your customers’ expectations and requirements throughout the organization to enhance bottom line growth and profitability.<br>
+                                <h3>To achieve excellence and competitive advantage you must effectively align your processes and resources with Customer Satisfaction-driven Strategic Performance Objectives, and manage to those objectives. QGem Consultants works with you to help you discover and drive your customers’ expectations and requirements throughout the organization to enhance bottom line growth and profitability.<br>
                                     The process begins by obtaining a thorough understanding of your organization, operations, customers, stakeholders and competitive environment. We match our capabilities and approaches with your objectives, capabilities and market realities.</h3>
                             </div>
                         </div>
